@@ -67,8 +67,8 @@ sync_groups:
     # 支持在不同的Alist服务器之间同步
     # 例子：http://localhost:5244/test1
     group:
-      - "http://localhost:5244/test1"
-      - "http://localhost:5244/test2"
+      - "http://localhost:5244/天翼云盘/转存文件"
+      - "http://localhost:5244/阿里云盘/转存资源"
 
 notify: # 通知服务，当触发一些异常后，将会发送通知。
   - enable: true
